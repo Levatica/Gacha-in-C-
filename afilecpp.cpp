@@ -25,21 +25,21 @@ int main(){
         {
             if (random == 1){
                 
-                cout << "Kamu dapat Mitsuba Sousuke (Point = 2)" << endl;
+                cout << "Kamu dapat Bulan (Point = 2)" << endl;
                 int point = 2;
                 kontent += point;
 
             }else if (random == 2)
             {
 
-                cout << "Kamu dapat Yashiro Nene (Point = 4)" << endl;
+                cout << "Kamu dapat Bumi (Point = 4)" << endl;
                 int point = 4;
                 kontent += point;
 
             }else if (random == 3)
             {
                  
-                cout << "Kamu dapat Shijima Mei (Point = 6)" << endl;
+                cout << "Kamu dapat Matahari (Point = 6)" << endl;
                 int point = 6;
                 kontent += point;
 
@@ -64,4 +64,5 @@ int main(){
     
 
     return 0;
+
 }
